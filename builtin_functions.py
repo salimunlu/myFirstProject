@@ -2,7 +2,7 @@
 # https://docs.python.org/3/library/functions.html
 
 # input() fonksiyonu
-numerator = input("Pay kısmını giriniz= ")
+numerator = input("Pay kısmını giriniz=  ")
 denominator = input("Payda kısmını giriniz= ")
 
 result = int(int(numerator) / int(denominator))
